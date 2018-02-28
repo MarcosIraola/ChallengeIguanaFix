@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/javier/Library/Android/sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.0"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/Users/javier/Desktop/ChallengeIguanaFix/app/build/intermediates/transforms/dex/debug/folders/1000/10/constraint-layout-solver-1.0.2_65eec6fddcfee4426b8183172abf357c02dcf272/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/javier/.android/build-cache/5d7b85ede34b931ea6250185e5f60143ad099aa5/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.0"
+        sha1="2e92aa0163544a804a0b34f169ca61801770839a">
+        <dex dex="/Users/javier/Desktop/ChallengeIguanaFix/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_727e1af08aa0b3aaa17b84f6abd8ba73166318fb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/javier/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.13.0/a9283170b7305c8d92d25aff02a6ab7e45d06cbe/okio-1.13.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.0"
+        sha1="a9283170b7305c8d92d25aff02a6ab7e45d06cbe">
+        <dex dex="/Users/javier/Desktop/ChallengeIguanaFix/app/build/intermediates/transforms/dex/debug/folders/1000/10/okio-1.13.0_c4882cf0b874ea87790ccadadd4e961574ec9f80/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/javier/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/26.0.0-alpha1/support-annotations-26.0.0-alpha1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.0"
+        sha1="023ee503b631f69511e335a061ea008f8da60f40">
+        <dex dex="/Users/javier/Desktop/ChallengeIguanaFix/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-26.0.0-alpha1_61fb4f4913b8c079199683e97ccc111c9d66f03e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/javier/.android/build-cache/5c4f978edf3f610bd0627bd4e2f35fd201f5a1a7/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.0"
+        sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
+        <dex dex="/Users/javier/Desktop/ChallengeIguanaFix/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_712cf31501b059b20b7f04dabf35c357b4126230/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/javier/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.8.0/5a11f020cce2d11eb71ba916700600e18c4547e7/okhttp-3.8.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.0"
+        sha1="5a11f020cce2d11eb71ba916700600e18c4547e7">
+        <dex dex="/Users/javier/Desktop/ChallengeIguanaFix/app/build/intermediates/transforms/dex/debug/folders/1000/10/okhttp-3.8.0_afdc93cb526f92741d252d5dbc6c342d0c5cef32/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/javier/.gradle/caches/modules-2/files-2.1/com.squareup.picasso/picasso/2.5.2/7446d06ec8d4f7ffcc53f1da37c95f200dcb9387/picasso-2.5.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.0"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="/Users/javier/Desktop/ChallengeIguanaFix/app/build/intermediates/transforms/dex/debug/folders/1000/10/picasso-2.5.2_7d869dc29c21ad7c1f8a4f8927e78317a773170c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/javier/.android/build-cache/4553ea7cc6e7ee3fe1ff3edc7106b6c89b30787c/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.0"
+        sha1="88246166d5afb106f532f6e6deae683c66b42c89">
+        <dex dex="/Users/javier/Desktop/ChallengeIguanaFix/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_4ff82739f8f539c14d17044515ce884de8f19b77/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/javier/Desktop/ChallengeIguanaFix/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.0"
+        sha1="a67a0e03e0335fc623a5ac5636b81db3bc0b365a">
+        <dex dex="/Users/javier/Desktop/ChallengeIguanaFix/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_0e7550232610d57ee55f23f6342b2a18e8b11862/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/javier/.android/build-cache/3fdfb1ec6909afc508a7da29b2037579decd5731/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.0"
+        sha1="952944218ecedea1554a513dec0c14d570642843">
+        <dex dex="/Users/javier/Desktop/ChallengeIguanaFix/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_28abf844c3b39d0588223256f76476bc18340bf0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/javier/.android/build-cache/beb46b09e1fac5d2cf95f66ac817e13c97091a7b/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/javier/Desktop/ChallengeIguanaFix/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_5c489594d9ade9f11618229ddd908bb3fb09574b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/javier/.android/build-cache/0c32038fda9d6006f42d4bcd24cbef82177229d2/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.0"
+        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
+        <dex dex="/Users/javier/Desktop/ChallengeIguanaFix/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_5b6998f359c11acf1dbf89f3fb936ef362d7a272/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/javier/.android/build-cache/a3c9f17176dae4db7c69b88df76596c0a5ee5dd5/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.0"
+        sha1="47471eb19df288158b00b8d9cfa41bce7373f5cc">
+        <dex dex="/Users/javier/Desktop/ChallengeIguanaFix/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_461e67e3927e5174ce8f9b5dc736207601b03a57/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/javier/.android/build-cache/6e8c486a1f1438516e18a19f7134bc79844e434f/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.0"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/Users/javier/Desktop/ChallengeIguanaFix/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_394396897ab89ac37c77b2e5d0dfd04f9022199b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/javier/.android/build-cache/3c770523cad44a3bc09aa8567855dfc12dd64e5e/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.0"
+        sha1="e176fd06c2ad5b50a2f5cb4de6000a83a7cb48f5">
+        <dex dex="/Users/javier/Desktop/ChallengeIguanaFix/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_020df3474452d4b8b57cf2f9b50edde46b929ea6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/javier/.android/build-cache/d4f676526a902804ec32a595d4a183c5315039e9/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.0"
+        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
+        <dex dex="/Users/javier/Desktop/ChallengeIguanaFix/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_f5c18a52fd0d11155c5bc741d2af31bfc3fe4826/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/javier/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.8.2/3edcfe49d2c6053a70a2a47e4e1c2f94998a49cf/gson-2.8.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.0"
+        sha1="3edcfe49d2c6053a70a2a47e4e1c2f94998a49cf">
+        <dex dex="/Users/javier/Desktop/ChallengeIguanaFix/app/build/intermediates/transforms/dex/debug/folders/1000/10/gson-2.8.2_5f4e25193a59f9e1845f4e9c5564579eadb5afd2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/javier/Desktop/ChallengeIguanaFix/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.0"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/Users/javier/Desktop/ChallengeIguanaFix/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_532fe180770ce16af7fa5e2ddb760d685056d24b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/javier/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/retrofit/2.3.0/bcacde6a8ccedcc56c127403d26b76072fe6214d/retrofit-2.3.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.0"
+        sha1="bcacde6a8ccedcc56c127403d26b76072fe6214d">
+        <dex dex="/Users/javier/Desktop/ChallengeIguanaFix/app/build/intermediates/transforms/dex/debug/folders/1000/10/retrofit-2.3.0_b7989e701e5e4b7c4b9454c637223ef6c1ef8026/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/javier/.android/build-cache/b28359a36c3b1525defe9d2ffc3bb9302382a4c6/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.0"
+        sha1="9935891f23923f39d002087085d9696568a9f657">
+        <dex dex="/Users/javier/Desktop/ChallengeIguanaFix/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_b3f535ce6f0e417e516ca4a415683cf824836b6b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/javier/.android/build-cache/fb99c0c107bc8b3f4fe8f62ba3db4299a18cf59a/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.0"
+        sha1="c4f45092eee6cdf1a5dbd597b2b6819be652ce2e">
+        <dex dex="/Users/javier/Desktop/ChallengeIguanaFix/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_2d4c7cd8308b768eb5ab14b8f06cc52a39a18106/classes.dex" />
+    </item>
+
+</items>
